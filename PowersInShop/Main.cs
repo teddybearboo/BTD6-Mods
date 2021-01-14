@@ -45,7 +45,7 @@ namespace PowersInShop
 
         public override void OnApplicationStart()
         {
-            Powers.Add("BananaFarmer", 500); 
+            Powers.Add("BananaFarmer", 1); 
             Powers.Add("TechBot", 500);
             Powers.Add("Pontoon", 750);
             Powers.Add("PortableLake", 750);
